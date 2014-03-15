@@ -1,4 +1,11 @@
-markup_careercup
-================
+# Career Cup
 
-Markup "Careercup"
+Version: 1.0
+
+Updated: 16/03/2014
+
+Works with Sword: https://github.com/somu/sword
+
+## Credits
+
+* @oskolsky — Senior Frontend Developer

@@ -1,0 +1,14 @@
+!!!
+%html.no-js{lang: "ru-RU"}
+  %head
+    %title Career Cup
+    = haml :'views/layouts/_head'
+  
+  %body#page.page
+    = haml :'views/common/_alerts'
+    = haml :'views/layouts/_header'
+    
+    %main#main.main{role: "main"}
+      = yield
+                  
+    = haml :'views/layouts/_footer'
